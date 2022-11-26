@@ -1,0 +1,14 @@
+{
+    "name": "granchain",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node index"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
+}
